@@ -96,7 +96,7 @@ class Presentation extends Component {
         <div class="col-sm-3">
           <div class="team-member">
             <img class="mx-auto rounded-circle" src='.././avatars/avatar-4.png' alt="" />
-            <h4>Amede Lowen</h4>
+            <h4>Chris Djamen</h4>
             <p class="text-muted">Lead Developer</p>
             <ul class="list-inline social-buttons">
               <li class="list-inline-item">
@@ -125,7 +125,7 @@ class Presentation extends Component {
         <div class="col-sm-3">
           <div class="team-member">
             <img class="mx-auto rounded-circle"  src='.././avatars/avatar-5.png' alt="" />
-            <h4>Travis Kemkeu</h4>
+            <h4>CSK Kouami</h4>
             <p class="text-muted">Lead Designer</p>
             <ul class="list-inline social-buttons">
               <li class="list-inline-item">
