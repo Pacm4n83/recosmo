@@ -1,7 +1,7 @@
 {
   "main.css": "/recosmo/static/css/main.45bca33a.chunk.css",
-  "main.js": "/recosmo/static/js/main.0bdc7c86.chunk.js",
-  "main.js.map": "/recosmo/static/js/main.0bdc7c86.chunk.js.map",
+  "main.js": "/recosmo/static/js/main.f8bd9604.chunk.js",
+  "main.js.map": "/recosmo/static/js/main.f8bd9604.chunk.js.map",
   "static/css/1.9281de9d.chunk.css": "/recosmo/static/css/1.9281de9d.chunk.css",
   "static/js/1.29d9ce0c.chunk.js": "/recosmo/static/js/1.29d9ce0c.chunk.js",
   "static/js/1.29d9ce0c.chunk.js.map": "/recosmo/static/js/1.29d9ce0c.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/1.9281de9d.chunk.css.map": "/recosmo/static/css/1.9281de9d.chunk.css.map",
   "static/css/main.45bca33a.chunk.css.map": "/recosmo/static/css/main.45bca33a.chunk.css.map",
   "index.html": "/recosmo/index.html",
-  "precache-manifest.daed488d9f40cfea79874dbeb6576076.js": "/recosmo/precache-manifest.daed488d9f40cfea79874dbeb6576076.js",
+  "precache-manifest.98641ce1dc45d49aecff529911972e34.js": "/recosmo/precache-manifest.98641ce1dc45d49aecff529911972e34.js",
   "service-worker.js": "/recosmo/service-worker.js"
 }
